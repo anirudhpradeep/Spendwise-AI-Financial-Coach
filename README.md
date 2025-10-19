@@ -8,4 +8,3 @@ An AI-powered personal finance coach that helps users track expenses, plan savin
 - Goal-based savings
 - Financial education
 
-🛠️ Tech Stack: React, Node.js, AI (planned)
